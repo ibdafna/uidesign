@@ -1,0 +1,1 @@
+Just as with alignment, whilte space, contrast and other fundamentals, the size of every UI element must be carefully considered.
