@@ -17,3 +17,4 @@ Reminder, these our fundamentals:
 
 With a lot of whitespace, how can we fill it all out?
 
+For gradients we can use cssgradient.io
